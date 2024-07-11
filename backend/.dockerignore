@@ -1,0 +1,12 @@
+# Binaries
+main
+
+# Go vendor directory
+vendor/
+
+# Git files
+.git
+.gitignore
+
+# OS-specific files
+*.DS_Store
